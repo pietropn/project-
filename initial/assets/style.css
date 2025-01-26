@@ -95,7 +95,6 @@ ul li a:hover{
 }
 
 footer{
-    padding: 70px 0;
     text-align: center;
     font-size: 15px;
     
@@ -107,7 +106,7 @@ footer a{
 }
 
 footer p{
-    padding: 30px;
+    padding: 50px;
     text-decoration: none;
     color: rgba(255, 255, 255, 0.1);
 }
