@@ -106,8 +106,19 @@ footer a{
     transition: 1.5s;
 }
 
+footer p{
+    padding: 30px;
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.1);
+}
+
 footer a:hover{
     background: rgba(255, 255, 255, 0.3);
     text-decoration: none;
     border-radius: 7px;
+}
+
+/* media */
+@media (min-width: 700px){
+    
 }
