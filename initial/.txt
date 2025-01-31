@@ -8,3 +8,5 @@ https://tympanus.net/Development/ButtonHoverStyles/
 https://www.lambdatest.com/blog/best-css-button-hover-effects/
 
 https://ionic.io/ionicons
+
+https://lottiefiles.com/
